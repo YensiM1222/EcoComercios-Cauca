@@ -14,3 +14,7 @@ Plataforma B2B para fortalecer la comercialización directa de productos de pequ
 cd backend
 npm install
 npm start
+Frontend
+cd frontend
+npm install
+npm run android
